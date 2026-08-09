@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alucasr
-- 👀 I’m interested in Spark, Hadoop and AWS.
-- 🌱 I’m currently working on Spark Structured Streaming..
-- 💞️ I’m looking to collaborate on end-to-end solutions for Big Data.
+- 👀 I’m interested in Big Data (Spark-Scala and Hadoop job Optimization and tuningHadoop) and AI (ML, GenAI, Agengic AI).
+- 🌱 I’m currently working on ML Ops and Agentic AI.
+- 💞️ I’m looking to collaborate on end-to-end solutions.
 - 📫 How to reach me: alvarolucas@yahoo.es
 
 <!---
